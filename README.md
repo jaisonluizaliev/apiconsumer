@@ -6,7 +6,7 @@
 
 # Was consuming api in fetch in the browser
 
-# Wsed tecnologies
+# Used tecnologies
 ## Api
 - express
 - cors 
