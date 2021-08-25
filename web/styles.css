@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+  height: 100vh;
+  background-color: rgb(41, 41, 41);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+li {
+  color: rgb(253, 253, 253);
+  background: rgb(108, 21, 189);
+  display: flex;
+  justify-content: center;
+  height: 75px;
+  width: 30%;
+  font-size: 1.5rem;
+}
+
