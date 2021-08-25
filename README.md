@@ -2,17 +2,17 @@
 
 # Was created one application in Back-end
 
-# was consuming one api in back-end
+# Was consuming one api in back-end
 
-# was consuming api in fetch in the browser
+# Was consuming api in fetch in the browser
 
-# used tecnologies
- Api
+# Wsed tecnologies
+## Api
 - express
 - cors 
 - axios
 - nodemon
- Web
+## Web
 - html
 - javascript
 - css
